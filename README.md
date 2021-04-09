@@ -8,7 +8,7 @@ Saint Louis University Madrid
 Written by:
 Kellie Colson and John Palmer
 
-NOTE: Project is outdated and does not quite function as intended.
+NOTE: Project is outdated and so some aspects of the project do not quite function as intended.
 
 Theory:
 
